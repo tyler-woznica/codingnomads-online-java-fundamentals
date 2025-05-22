@@ -1,7 +1,7 @@
 package labs_examples.datatypes_operators.examples;
 
 /*
-   This program attempts to declared a variable
+   This program attempts to declare a variable
    in an inner scope with the same name as one
    defined in an outer scope.
 
